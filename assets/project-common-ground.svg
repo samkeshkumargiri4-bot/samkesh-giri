@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-labelledby="title">
+  <title id="title">Common Ground neighborhood map illustration</title>
+  <rect width="900" height="540" fill="#1c302c"/>
+  <path d="M0 111 900 25M0 281 900 198M0 459 900 369M166 0l82 540M408 0l-2 540M682 0l-92 540" stroke="#688679" stroke-opacity=".25" stroke-width="16"/>
+  <path d="M0 111 900 25M0 281 900 198M0 459 900 369M166 0l82 540M408 0l-2 540M682 0l-92 540" stroke="#9bb09b" stroke-opacity=".26" stroke-width="2" stroke-dasharray="9 10"/>
+  <path d="M317 0c-25 101-26 170 8 246s32 171 6 294M525 0c-33 94-28 173 10 238s30 162-4 302" fill="none" stroke="#749784" stroke-width="23" opacity=".2"/>
+  <rect x="42" y="42" width="244" height="105" rx="7" fill="#16231f" stroke="#8da494" stroke-opacity=".45"/>
+  <text x="65" y="74" fill="#a8e68b" font-family="sans-serif" font-size="11" letter-spacing="2">EXPLORE YOUR BLOCK</text>
+  <path d="M65 98h177" stroke="#e1e9dd" stroke-width="10" stroke-linecap="round" opacity=".75"/>
+  <path d="M65 120h110" stroke="#9aa89b" stroke-width="6" stroke-linecap="round" opacity=".55"/>
+  <g fill="#b3e597" stroke="#1c302c" stroke-width="5">
+    <circle cx="343" cy="180" r="13"/><circle cx="585" cy="303" r="13"/><circle cx="708" cy="131" r="13"/><circle cx="231" cy="376" r="13"/>
+  </g>
+  <g fill="#e6a783" stroke="#1c302c" stroke-width="5"><circle cx="480" cy="105" r="13"/><circle cx="736" cy="400" r="13"/></g>
+  <path d="M343 180c72-54 128-72 190-75M343 180c-7 69 60 108 118 125M585 303c42-49 74-110 123-172" fill="none" stroke="#b3e597" stroke-width="2" stroke-dasharray="6 8" opacity=".65"/>
+  <rect x="561" y="329" width="262" height="138" rx="8" fill="#16231f" stroke="#8da494" stroke-opacity=".5"/>
+  <rect x="578" y="347" width="76" height="102" rx="5" fill="#a88268"/>
+  <path d="M594 389h43M594 405h30" stroke="#f1dbc5" stroke-width="5" stroke-linecap="round"/>
+  <text x="671" y="366" fill="#a8e68b" font-family="sans-serif" font-size="10" letter-spacing="2">LOCAL FAVORITE</text>
+  <path d="M671 390h126" stroke="#e7eee5" stroke-width="9" stroke-linecap="round" opacity=".8"/>
+  <path d="M671 411h94M671 432h109" stroke="#97a99a" stroke-width="5" stroke-linecap="round" opacity=".55"/>
+</svg>

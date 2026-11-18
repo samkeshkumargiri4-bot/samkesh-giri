@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-labelledby="title">
+  <title id="title">Fieldnotes planning dashboard illustration</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#243b31"/><stop offset="1" stop-color="#111b18"/></linearGradient></defs>
+  <rect width="900" height="540" fill="url(#bg)"/>
+  <circle cx="750" cy="95" r="180" fill="#a8e68b" opacity=".06"/>
+  <rect x="105" y="58" width="690" height="420" rx="10" fill="#151d1a" stroke="#789381" stroke-opacity=".4"/>
+  <rect x="105" y="58" width="155" height="420" rx="10" fill="#1c2922"/>
+  <circle cx="136" cy="94" r="10" fill="#a8e68b"/><path d="M157 92h59" stroke="#d9e8d5" stroke-width="7" stroke-linecap="round" opacity=".8"/>
+  <path d="M132 147h78M132 176h63M132 205h72M132 234h56" stroke="#879b8a" stroke-width="7" stroke-linecap="round" opacity=".55"/>
+  <rect x="128" y="270" width="105" height="32" rx="5" fill="#314438"/><circle cx="145" cy="286" r="5" fill="#a8e68b"/><path d="M160 286h48" stroke="#c3d5c1" stroke-width="5" stroke-linecap="round"/>
+  <text x="298" y="117" fill="#a8e68b" font-family="sans-serif" font-size="12" letter-spacing="3">WEEKLY PLANNING</text>
+  <path d="M298 150h345" stroke="#dce8dc" stroke-width="15" stroke-linecap="round" opacity=".9"/>
+  <path d="M298 177h218" stroke="#9eaaa0" stroke-width="7" stroke-linecap="round" opacity=".55"/>
+  <rect x="298" y="220" width="205" height="150" rx="7" fill="#202b25" stroke="#617866" stroke-opacity=".38"/>
+  <rect x="523" y="220" width="235" height="150" rx="7" fill="#202b25" stroke="#617866" stroke-opacity=".38"/>
+  <text x="318" y="250" fill="#9ea99f" font-family="sans-serif" font-size="11">OPEN NOTES</text>
+  <path d="M319 279h158M319 302h132M319 325h145" stroke="#b9c9b8" stroke-width="6" stroke-linecap="round" opacity=".5"/>
+  <text x="546" y="250" fill="#9ea99f" font-family="sans-serif" font-size="11">NEXT STEPS</text>
+  <circle cx="550" cy="282" r="7" fill="#a8e68b"/><path d="M570 282h143" stroke="#c9d6c7" stroke-width="6" stroke-linecap="round" opacity=".7"/>
+  <circle cx="550" cy="313" r="7" fill="#6ba77a"/><path d="M570 313h115" stroke="#c9d6c7" stroke-width="6" stroke-linecap="round" opacity=".45"/>
+  <path d="M298 407h260" stroke="#738477" stroke-width="7" stroke-linecap="round" opacity=".45"/>
+  <circle cx="724" cy="421" r="25" fill="#a8e68b"/><path d="M714 421h20M724 411v20" stroke="#1b2b20" stroke-width="3"/>
+</svg>

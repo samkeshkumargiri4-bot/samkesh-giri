@@ -1,0 +1,19 @@
+Samkesh Giri
+AI Developer | Your City, Country
+hello@example.com
+
+PROFILE
+AI developer focused on building useful, dependable applications with language models and machine learning. Interested in grounded generation, practical automation, evaluation, and human-centered product design.
+
+SELECTED PROJECT EXPERIENCE
+AI Developer — Independent AI Projects | 2024–Present
+Prototype AI applications including retrieval-augmented assistants, model-backed workflows, and tool-using agents. Focus on measurable quality, clear user experiences, and reliable integrations.
+
+Machine Learning Developer — Applied ML Work | 2022–2024
+Developed data preparation and inference pipelines; experimented with classification and forecasting models; connected model outputs to APIs and usable interfaces.
+
+EDUCATION
+Computer Science — Your University | 2018–2022
+
+SKILLS
+Python, PyTorch, Transformers, Scikit-learn, LLMs, retrieval-augmented generation, embeddings, vector search, tool calling, model evaluation, FastAPI, Docker, monitoring

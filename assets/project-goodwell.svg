@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 540" role="img" aria-labelledby="title">
+  <title id="title">Goodwell daily wellness app illustration</title>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#493b30"/><stop offset="1" stop-color="#222722"/></linearGradient></defs>
+  <rect width="900" height="540" fill="url(#bg)"/>
+  <circle cx="745" cy="130" r="150" fill="#e8b28a" opacity=".12"/>
+  <rect x="195" y="48" width="258" height="448" rx="28" fill="#111715" stroke="#d8b393" stroke-opacity=".65" stroke-width="2"/>
+  <rect x="210" y="66" width="228" height="410" rx="18" fill="#222b25"/>
+  <rect x="282" y="77" width="92" height="8" rx="4" fill="#4a554c"/>
+  <text x="234" y="133" fill="#e5b28a" font-family="sans-serif" font-size="12" letter-spacing="2">TUESDAY, MAY 21</text>
+  <text x="234" y="174" fill="#f3eee6" font-family="sans-serif" font-size="27" font-weight="700">A little better.</text>
+  <text x="234" y="201" fill="#aab4aa" font-family="sans-serif" font-size="12">Your pace is the right pace.</text>
+  <circle cx="325" cy="297" r="66" fill="none" stroke="#39473d" stroke-width="12"/>
+  <path d="M325 231a66 66 0 1 1-58 97" fill="none" stroke="#b4df91" stroke-width="12" stroke-linecap="round"/>
+  <text x="297" y="300" fill="#f3eee6" font-family="sans-serif" font-size="27" font-weight="700">3/4</text>
+  <text x="282" y="322" fill="#9eaa9f" font-family="sans-serif" font-size="10">DAILY HABITS</text>
+  <rect x="235" y="388" width="178" height="52" rx="8" fill="#313c32"/>
+  <circle cx="256" cy="414" r="9" fill="#b4df91"/><path d="m251 414 4 4 8-9" fill="none" stroke="#203022" stroke-width="2"/>
+  <path d="M277 410h100M277 423h75" stroke="#d3ddd0" stroke-width="6" stroke-linecap="round" opacity=".65"/>
+  <g transform="translate(520 132)">
+    <circle cx="105" cy="105" r="98" fill="#e4a77e" opacity=".9"/>
+    <path d="M105 34v142M34 105h142M55 55l100 100M155 55 55 155" stroke="#2b3028" stroke-width="2" opacity=".5"/>
+    <circle cx="105" cy="105" r="55" fill="#f0c39b"/>
+    <path d="M80 107h50M105 82v50" stroke="#5d734f" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="529" y="392" fill="#f5eadd" font-family="sans-serif" font-size="15" letter-spacing="2">SHOW UP FOR YOU</text>
+</svg>
